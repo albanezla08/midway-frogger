@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835e78204669bb549a3f12f12f8797a4, type: 3}
+  m_Name: EveryOtherSnowman
+  m_EditorClassIdentifier: 
+  tileOrder:
+  - {fileID: 8876309209301575239, guid: 44e56c0fc56387e41ab893d5d88758be, type: 3}
+  - {fileID: 6357140044701616203, guid: c6ae771b9f7cc9e4ca219655a4f36f21, type: 3}
+  tiles: 0000000001000000
